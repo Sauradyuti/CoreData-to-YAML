@@ -1,5 +1,5 @@
 # CoreData-to-YAML
-CoreData-to-YAML  As the name suggests, this tool converts Xcode Core Data Model to YAML.  
+As the name suggests, this tool converts Xcode Core Data Model to YAML.  
 
 ## Dependencies: 
 Node.js  
